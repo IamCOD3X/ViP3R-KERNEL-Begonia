@@ -9,23 +9,23 @@
   Try at your own risk.. I will be not responsible is something happens to your device.
   
  # REDMI NOTE 8 PRO <br>
-Manufacturer	Xiaomi <br>
-Name	Redmi Note 8 Pro <br>
-Codename	xiaomi-begonia <br>
-Released	2019 <br>
-Category	testing <br>
-Original software	Android <br>
-Original version	9.0 (MIUI 11) <br>
-postmarketOS kernel	4.14.218 <br>
+Manufacturer-Xiaomi <br>
+Name-Redmi Note 8 Pro <br>
+Codename-xiaomi-begonia <br>
+Released-2019 <br>
+Category-testing <br>
+Original software-Android <br>
+Original version-9.0 (MIUI 11) <br>
+postmarketOS-kernel	4.14.218 <br>
 Hardware <br>
-Chipset	MediaTek Helio G90T (MT6785) <br>
-CPU	Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) <br>
-GPU	Mali-G76 MC4 <br>
-Display	1080 x 2340 <br>
-Storage	64/128/256 GB <br>
-Memory	6/8 GB <br>
-Architecture	aarch64 <br>
-Unixbench Whet/Dhry score	5577.1 <br>
+Chipset-MediaTek Helio G90T (MT6785) <br>
+CPU-Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) <br>
+GPU-Mali-G76 MC4 <br>
+Display-1080 x 2340 <br>
+Storage-64/128/256 GB <br>
+Memory-6/8 GB <br>
+Architecture-aarch64 <br>
+Unixbench Whet/Dhry score-5577.1 <br>
   
 ## Downloads:
   ### Version 1.0 Supports HID Support, Fast Charging, Better Battery Optimization
